@@ -46,4 +46,4 @@ This project is a robust social media backend REST API that empowers users to po
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/social-media-backend.git
+   git clone https://github.com/VoidMain0xx/Social-Media-API-II
